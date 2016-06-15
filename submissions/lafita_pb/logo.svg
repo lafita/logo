@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="logo.png">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -125,7 +125,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0366185"
      inkscape:cx="302.07373"
-     inkscape:cy="261.77992"
+     inkscape:cy="182.67657"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -320,24 +320,24 @@
     <text
        xml:space="preserve"
        style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99502486;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-       x="76.013298"
+       x="84.695374"
        y="732.91693"
        id="text3859"><tspan
          sodipodi:role="line"
          id="tspan3861"
-         x="76.013298"
+         x="84.695374"
          y="732.91693"
-         style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke-width:0.99502486;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">bio</tspan></text>
+         style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke-width:0.99502486;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">Bio</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:100px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Cursor;-inkscape-font-specification:Cursor"
-       x="230.49782"
-       y="944.8905"
+       x="222.78041"
+       y="950.67853"
        id="text3863"><tspan
          sodipodi:role="line"
          id="tspan3865"
-         x="230.49782"
-         y="944.8905"
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1.23833025;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">java</tspan></text>
+         x="222.78041"
+         y="950.67853"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:1.23833025;font-family:Comfortaa;-inkscape-font-specification:Comfortaa">Java</tspan></text>
   </g>
 </svg>
