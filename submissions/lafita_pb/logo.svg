@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.png">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -108,6 +108,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2876"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,8 +124,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0366185"
-     inkscape:cx="282.04538"
-     inkscape:cy="260.63116"
+     inkscape:cx="302.07373"
+     inkscape:cy="261.77992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -139,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -277,12 +284,19 @@
        d="m 152.85714,131.78572 c 0,18.34374 -15.35024,33.21429 -34.28571,33.21429 -18.93548,0 -34.285717,-14.87055 -34.285717,-33.21429 0,-18.34374 15.350237,-33.214286 34.285717,-33.214286 18.93547,0 34.28571,14.870546 34.28571,33.214286 z"
        transform="matrix(1.0059289,0,0,1.0383781,215.72558,615.51877)" />
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.12787414"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.77929765"
        id="rect3791"
-       width="8.8721256"
-       height="98.872124"
-       x="160.56393"
-       y="872.92615" />
+       width="4.2207022"
+       height="99.220703"
+       x="157.88965"
+       y="872.75183" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.77929765"
+       id="rect3791-4"
+       width="4.2207022"
+       height="99.220703"
+       x="167.88965"
+       y="872.75183" />
     <path
        sodipodi:type="arc"
        style="fill:#696969;stroke:#696969"
