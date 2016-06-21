@@ -13,8 +13,11 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="logo.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logo_v3.svg"
+   inkscape:export-filename="/home/aleix/logo/submissions/lafita_pb/logo_v3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -131,15 +134,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="315.40139"
-     inkscape:cy="285.4134"
+     inkscape:cx="314.04017"
+     inkscape:cy="288.54263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="923"
-     inkscape:window-height="985"
-     inkscape:window-x="973"
-     inkscape:window-y="161"
+     inkscape:window-height="768"
+     inkscape:window-x="441"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -153,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -310,17 +313,15 @@
        transform="matrix(1.0208334,0,0,1.0537634,93.958331,793.49121)" />
     <text
        xml:space="preserve"
-       style="font-size:55.08226776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09616458;font-family:Armata;-inkscape-font-specification:Armata"
-       x="308.89523"
-       y="909.2514"
+       style="font-size:55.08226776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.09616458;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="309.69385"
+       y="909.01825"
        id="text3859"
-       transform="scale(0.95584774,1.0461917)"><tspan
+       transform="scale(0.95584776,1.0461917)"><tspan
          sodipodi:role="line"
          id="tspan3861"
-         x="308.89523"
-         y="909.2514"
-         style="font-size:55.08226776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke-width:1.09616458;font-family:Armata;-inkscape-font-specification:Armata">Bio<tspan
-   style="font-style:normal;stroke-width:1.09616458;-inkscape-font-specification:Armata"
-   id="tspan2858">Java</tspan></tspan></text>
+         x="309.69385"
+         y="909.01825"
+         style="font-size:55.08226776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke-width:1.09616458;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">BioJava</tspan></text>
   </g>
 </svg>
