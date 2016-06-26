@@ -6,6 +6,7 @@
 
 - Author: Aleix Lafita
 - Email: aleixlafita@gmail.com
+- Github: github.com/lafita
 
 # Description
 
